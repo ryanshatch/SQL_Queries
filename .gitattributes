@@ -1,1 +1,3 @@
-*.* linguist-language=sql
+# Auto detect text files and perform LF normalization
+# text=auto
+* text -s sql
