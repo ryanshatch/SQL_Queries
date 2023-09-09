@@ -1,1 +1,1 @@
-* text -s sql
+*.* linguist-language=sql
